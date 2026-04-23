@@ -73,8 +73,9 @@ A lightweight web interface was developed using Flask, allowing users to:
 - stego_model.pkl  
 - templates/index.html  
 - static/style.css  
-- screenshots/home.png  
-- screenshots/result.png  
+- home.jpeg  
+- cover.jpeg  
+- stego.jpeg  
 - requirements.txt  
 
 ---
