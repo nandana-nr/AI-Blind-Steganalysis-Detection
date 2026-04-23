@@ -5,7 +5,7 @@ This project presents a machine learning-based blind steganalysis system designe
 
 This system achieves approximately 88% accuracy in detecting steganographic content using handcrafted features and machine learning techniques.
 
-This project was developed as part of my AI/ML internship experience.
+This project was developed as my S6 mini project as part of my undergraduate curriculum.
 
 ---
 
