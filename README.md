@@ -109,13 +109,13 @@ http://127.0.0.1:5000/
 ## Screenshots
 
 ### 🏠 Home Interface
-![Home](home.png)
+![Home](home.jpeg)
 
 ### ✅ Cover Image Detection
-![Cover](cover.png)
+![Cover](cover.jpeg)
 
 ### ⚠️ Stego Image Detection
-![Stego](stego.png)
+![Stego](stego.jpeg)
 
 ---
 
