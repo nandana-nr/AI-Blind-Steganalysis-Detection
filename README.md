@@ -107,7 +107,14 @@ http://127.0.0.1:5000/
 
 ## Screenshots
 
-(Add your screenshots inside the screenshots folder)
+### 🏠 Home Interface
+![Home](home.png)
+
+### ✅ Cover Image Detection
+![Cover](cover.png)
+
+### ⚠️ Stego Image Detection
+![Stego](stego.png)
 
 ---
 
